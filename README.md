@@ -1,2 +1,2 @@
 # Aliens-Everywhere
- A fun small Pyhton run game that shoots the descending aliens
+ A fun small Python-run game that shoots the descending aliens
